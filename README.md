@@ -10,7 +10,7 @@
 
 [中文](README_CN.md)
 
-## Introduce
+## Introducee
 
 Wireless debugging with ***only one ESP Chip*** !
 
