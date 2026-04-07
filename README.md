@@ -4,7 +4,7 @@
 
 
 [![Build Status](https://github.com/windowsair/wireless-esp8266-dap/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/windowsair/wireless-esp8266-dap/actions/workflows/main.yml) master　
-[![Build Status](https://github.com/windowsair/wireless-esp8266-dap/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/windowsair/wireless-esp8266-dap/actions/workflows/main.yml) develop
+[![Build Status](https://github.com/windowsair/wireless-esp8266-dap/actions/workflows/main.yml/badge.svg?branch=develop)](https://github.com/windowsair/wireless-esp8266-dap/actions/workflows/main.yml) developp
 
 [![](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://github.com/windowsair/wireless-esp8266-dap/LICENSE)　[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat-square)](https://github.com/windowsair/wireless-esp8266-dap/pulls)　[![%e2%9d%a4](https://img.shields.io/badge/made%20with-%e2%9d%a4-ff69b4.svg?style=flat-square)](https://github.com/windowsair/wireless-esp8266-dap)
 
